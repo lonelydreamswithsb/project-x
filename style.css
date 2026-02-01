@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.left{
+    
+}
+.top{
+    height: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+.left{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.right{
+    width: 595px;
+    display: flex;
+    justify-content: right;
+}
+.leftb{
+    margin-right: 10px;
+}
