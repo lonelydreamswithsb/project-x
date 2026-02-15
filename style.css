@@ -133,3 +133,43 @@ button{
     grid-template-columns: auto;
 }
 
+.products{
+    display: flex;
+    justify-content: right;
+}
+.sale{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p10{
+    font-weight: 1000;
+}
+.p11{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+.cost1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.p12{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    padding: 3px;
+}
+.no1{
+    position: relative;
+}
+.picture{
+    position: relative;
+}
+.p7{
+    color: gray;
+    border-radius: 109px solid black;
+}
