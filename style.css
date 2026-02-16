@@ -173,3 +173,33 @@ button{
     color: gray;
     border-radius: 109px solid black;
 }
+footer{
+    margin: 40px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+
+}
+.right1{
+margin-right: 416px;
+    
+}
+.svg2{
+    margin-right: 9px;
+}
+.p13{
+    opacity: 0.5;
+    font-size: 20px;
+}
+.p14{
+    font-size: 40px;
+    font-weight: 600;
+}
+.right12{
+    margin-right: 570px;
+}
+.p15{
+    font-size: 64px;
+    font-weight: 700;
+}
