@@ -136,6 +136,7 @@ button{
 .products{
     display: flex;
     justify-content: right;
+    gap: 32px;
 }
 .sale{
     display: flex;
