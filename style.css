@@ -29,7 +29,6 @@ button{
     margin-left: 40px;
     margin-right: 40px;
     border-radius: 10px;
-    margin-bottom: 210px;
 }
 
 .plants{
@@ -203,4 +202,21 @@ margin-right: 416px;
 .p15{
     font-size: 64px;
     font-weight: 700;
+}
+.market{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 0 150px;
+}
+.card{
+    border: solid black 3px;
+    width: fit-content;
+    padding: 10px;
+ 
+}
+section{
+    display: flex   ;
+    
+     
 }
