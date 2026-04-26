@@ -216,7 +216,13 @@ margin-right: 416px;
  
 }
 section{
-    display: flex   ;
-    
-     
+    display: flex   ; 
+}
+.card img{
+    width: 100%;
+    height: 40%;
+}
+.productpage{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
 }
