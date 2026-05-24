@@ -226,3 +226,27 @@ section{
     display: grid;
     grid-template-columns: 3fr 2fr;
 }
+.image1{
+    height: 400px;
+}
+.stranica{
+    border: 2px solid black;
+}
+
+.price1{
+    font-size: 36px;
+}
+.price2{
+    font-size: 54px;
+    width: 200px;
+}
+.butt{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+.price3{
+    font-weight: bold;
+    font-size: 50px;
+    width: 30px;
+}
